@@ -1,0 +1,9 @@
+﻿  GameProject001.cpp
+c:\users\joshua lim\documents\visual studio 2015\projects\gameproject001\gameproject001\gameproject001.cpp(121): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\joshua lim\documents\visual studio 2015\projects\gameproject001\gameproject001\gameproject001.cpp(138): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\joshua lim\documents\visual studio 2015\projects\gameproject001\gameproject001\gameproject001.cpp(112): warning C4101: 'endgame': unreferenced local variable
+c:\users\joshua lim\documents\visual studio 2015\projects\gameproject001\gameproject001\gameproject001.cpp(113): warning C4101: 'startover': unreferenced local variable
+c:\users\joshua lim\documents\visual studio 2015\projects\gameproject001\gameproject001\gameproject001.cpp(192): warning C4101: 'name': unreferenced local variable
+c:\users\joshua lim\documents\visual studio 2015\projects\gameproject001\gameproject001\gameproject001.cpp(544): warning C4101: 'stopper': unreferenced local variable
+  GameProject001.vcxproj -> C:\Users\Joshua Lim\documents\visual studio 2015\Projects\GameProject001\Debug\GameProject001.exe
+  GameProject001.vcxproj -> C:\Users\Joshua Lim\documents\visual studio 2015\Projects\GameProject001\Debug\GameProject001.pdb (Full PDB)

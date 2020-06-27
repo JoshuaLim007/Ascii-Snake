@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  GameProject001.cpp
+d:\toolkit\backup\joshua-pc001-deprecated\c\users\joshua lim\documents\visual studio 2015\projects\gameproject001\gameproject001\gameproject001.cpp(123): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+d:\toolkit\backup\joshua-pc001-deprecated\c\users\joshua lim\documents\visual studio 2015\projects\gameproject001\gameproject001\gameproject001.cpp(142): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\toolkit\backup\joshua-pc001-deprecated\c\users\joshua lim\documents\visual studio 2015\projects\gameproject001\gameproject001\gameproject001.cpp(114): warning C4101: 'endgame': unreferenced local variable
+d:\toolkit\backup\joshua-pc001-deprecated\c\users\joshua lim\documents\visual studio 2015\projects\gameproject001\gameproject001\gameproject001.cpp(115): warning C4101: 'startover': unreferenced local variable
+d:\toolkit\backup\joshua-pc001-deprecated\c\users\joshua lim\documents\visual studio 2015\projects\gameproject001\gameproject001\gameproject001.cpp(196): warning C4101: 'name': unreferenced local variable
+d:\toolkit\backup\joshua-pc001-deprecated\c\users\joshua lim\documents\visual studio 2015\projects\gameproject001\gameproject001\gameproject001.cpp(550): warning C4101: 'stopper': unreferenced local variable
+  GameProject001.vcxproj -> D:\Toolkit\Backup\JOSHUA-PC001-DEPRECATED\C\Users\Joshua Lim\Documents\Visual Studio 2015\Projects\GameProject001\x64\Debug\GameProject001.exe

@@ -1,0 +1,14 @@
+﻿  GameProject001.cpp
+GameProject001.cpp(121): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+GameProject001.cpp(138): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+GameProject001.cpp(112): warning C4101: 'endgame': unreferenced local variable
+GameProject001.cpp(113): warning C4101: 'startover': unreferenced local variable
+GameProject001.cpp(192): warning C4101: 'name': unreferenced local variable
+GameProject001.cpp(546): warning C4101: 'stopper': unreferenced local variable
+  Generating code
+  2 of 20 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameProject001.vcxproj -> C:\Users\Joshua Lim\documents\visual studio 2015\Projects\GameProject001\Release\GameProject001.exe
+  GameProject001.vcxproj -> C:\Users\Joshua Lim\documents\visual studio 2015\Projects\GameProject001\Release\GameProject001.pdb (Full PDB)
